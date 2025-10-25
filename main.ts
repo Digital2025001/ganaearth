@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://sirendesigns.net/", // Replace this with your actual link
+      Location: "https://dcopv.com/irr/", // Replace this with your actual link
     },
   });
 });
