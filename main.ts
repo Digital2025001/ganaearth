@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "http://", // Replace this with your actual link
+      Location: "https://hahaios.com/", // Replace this with your actual link
     },
   });
 });
